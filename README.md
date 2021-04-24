@@ -42,6 +42,7 @@
 |Institut Montaigne |Discriminations religieuses à l'embauche une réalité |2015|||[lien](https://www.institutmontaigne.org/publications/discriminations-religieuses-lembauche-une-realite)|
 |Institut Montaigne |Diversité et performance : une équation réussie|2010|||[lien](https://www.institutmontaigne.org/blog/2010/12/29/606-diversite-et-performance-une-equation-reussie)|
 |Le grand continent|Une pandémie de la pauvreté|2020|||[lien](https://legrandcontinent.eu/fr/2020/09/05/une-pandemie-de-la-pauvrete/)|
+|Les dialogues de l'inclusion et de la RSE|Site de l'événement|2021|||[lien](https://officiel-inclusion.fr/)|											
 |Les vendredis de la colline|Diversité culturelle et tissu associatif en Seine-Saint-Denis|2020|||[lien](https://drive.google.com/file/d/1BEQ2mRfpvW_p10Rnz5ikzFeu5FiK8VkD/view)|
 |Mamie-Boom|Site de la startup qui vise à réduire l’isolement social des personnes âgées en créant des liens intergénérationnels basés sur la transmission et l’échange avec des étudiants||||[lien](https://mamie-boom.com/)|
 |McKinsey|Rapport sur D&I||||[lien](https://www.mckinsey.com/featured-insights/diversity-and-inclusion)|
