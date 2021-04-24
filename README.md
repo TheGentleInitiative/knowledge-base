@@ -28,6 +28,7 @@
 |Deloitte|Étude Diversité et Inclusion|2020|||[lien](https://www2.deloitte.com/fr/fr/pages/talents-et-ressources-humaines/articles/diversite-et-inclusion.html)|
 |Equileap|Rapport d’Equileap 2021 sur l’égaliteé Homme/Femme|2021|||[lien](https://equileap.com/wp-content/uploads/2021/03/Global-Report-2021.pdf)|
 |France strategie|Le cout economique des discriminations|2016|||[lien](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/19-09-2016_fs_rapport_cout_economique_des_discriminations_final_web_0.pdf)|
+|France Télévisions|Nos engagements sociéteux|2021|||[lien](https://www.francetelevisions.fr/groupe/nos-engagements/nos-engagements-societaux-169)|
 |Glassdoor|Rapport Diversity & Inclusion Study|2019|||[lien](https://www.glassdoor.com/about-us/app/uploads/sites/2/2019/10/Glassdoor-Diversity-Survey-Supplement-1.pdf)|
 |Grand Paris sud|Cartographie acteurs inclusion numérique - Grand Paris Sud||||[lien](https://data.grandparissud.fr/explore/dataset/cartographie-acteurs-inclusion-numerique-grand-paris-sud-authorisation-dapparait/table/)|
 |Harvard Business School|Working Paper: How Multicultural Networks Promote Creativity|2011|||[lien](https://www.hbs.edu/ris/Publication%20Files/11-085.pdf)|
