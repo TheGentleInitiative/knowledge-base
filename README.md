@@ -9,6 +9,7 @@
 |Association Francaise des managers de la diversite|Video de présentation des résultats 2020 du Baromètre de perception de l’égalité des chances en entreprises|2020|||[lien](https://www.afmd.fr/presentation-des-resultats-2020-du-barometre-de-perception-de-legalite-des-chances-en-entreprises-0)|
 |Association Francaise des managers de la diversite|RAPPORT ANNUEL DIVERSITÉS|2010|||[lien](https://guidededu.ucanss.fr/res/rapport_diversite.pdf)|
 |Autre cercle|Les roles modèles LGBT en entreprises|2020|||[lien](https://www.autrecercle.org/roles-modeles-edition2020)|
+|BCG|Section du site du Boston Consulting Group|2021|||[lien](https://www.bcg.com/capabilities/diversity-inclusion/overview)|
 |Bnp Paribas|Methodologie de mesure de l’impact (BNP Paribas|2016|||[lien](https://group.bnpparibas/actualite/mesurer-impact-social-bnp-paribas-accompagne-clients) / [lien](https://institut-isbl.fr/wp-content/uploads/sites/3/2016/07/MESIS.indd-fiche_mesis.pdf)|
 |CAIRN|Mesurer la diversité et l'impact des actions de lutte contre la discrimination : état des lieux et pistes de réflexion|2009|||[lien](https://www.cairn.info/revue-humanisme-et-entreprise-2009-5-page-29.htm?contenu=article)|
 |CAIRN|Mesurer la diversité en entreprise : pour quoi et comment ?|2010|||[lien](https://www.cairn.info/revue-management-et-avenir-2010-8-page-157.htm)|
