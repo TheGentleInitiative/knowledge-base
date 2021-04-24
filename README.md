@@ -27,6 +27,7 @@
 |Defenseur de droits |Baromètre de la perception  des discriminations dans l’emploi: |2020|||[lien](https://www.defenseurdesdroits.fr/fr/communique-de-presse/2020/12/13eme-barometre-de-la-perception-des-discriminations-dans-lemploi-des)|
 |Dell France|la diversité et l’inclusion font partie de notre ADN : elles relèvent de nos actes, mais plus encore de notre identité.|2020|||[lien](https://corporate.delltechnologies.com/fr-fr/social-impact/reporting/diversity-and-inclusion-report.htm)|
 |Deloitte|Étude Diversité et Inclusion|2020|||[lien](https://www2.deloitte.com/fr/fr/pages/talents-et-ressources-humaines/articles/diversite-et-inclusion.html)|
+|EDHEC|Étude Diversité, Inclusion et Leadership|2018|||[lien](https://www.edhec.edu/fr/edhec-open-leadership/diversite-inclusion-leadership)|										
 |Equileap|Rapport d’Equileap 2021 sur l’égaliteé Homme/Femme|2021|||[lien](https://equileap.com/wp-content/uploads/2021/03/Global-Report-2021.pdf)|
 |EY|DEI (Diversity, Equity, Inclusion) transparency report|2021|||[lien](https://assets.ey.com/content/dam/ey-sites/ey-com/en_us/topics/diversity/ey-transparency-report-d-i.pdf)|										
 |France strategie|Le cout economique des discriminations|2016|||[lien](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/19-09-2016_fs_rapport_cout_economique_des_discriminations_final_web_0.pdf)|
