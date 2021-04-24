@@ -28,6 +28,7 @@
 |Dell France|la diversité et l’inclusion font partie de notre ADN : elles relèvent de nos actes, mais plus encore de notre identité.|2020|||[lien](https://corporate.delltechnologies.com/fr-fr/social-impact/reporting/diversity-and-inclusion-report.htm)|
 |Deloitte|Étude Diversité et Inclusion|2020|||[lien](https://www2.deloitte.com/fr/fr/pages/talents-et-ressources-humaines/articles/diversite-et-inclusion.html)|
 |Equileap|Rapport d’Equileap 2021 sur l’égaliteé Homme/Femme|2021|||[lien](https://equileap.com/wp-content/uploads/2021/03/Global-Report-2021.pdf)|
+|EY|DEI (Diversity, Equity, Inclusion) transparency report|2021|||[lien](https://assets.ey.com/content/dam/ey-sites/ey-com/en_us/topics/diversity/ey-transparency-report-d-i.pdf)|										
 |France strategie|Le cout economique des discriminations|2016|||[lien](https://www.strategie.gouv.fr/sites/strategie.gouv.fr/files/atoms/files/19-09-2016_fs_rapport_cout_economique_des_discriminations_final_web_0.pdf)|
 |France Télévisions|Nos engagements sociéteux|2021|||[lien](https://www.francetelevisions.fr/groupe/nos-engagements/nos-engagements-societaux-169)|
 |Glassdoor|Rapport Diversity & Inclusion Study|2019|||[lien](https://www.glassdoor.com/about-us/app/uploads/sites/2/2019/10/Glassdoor-Diversity-Survey-Supplement-1.pdf)|
