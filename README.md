@@ -83,3 +83,5 @@
 |Statista |Les entreprises les plus inclusives d'Europe|2020|||[lien](https://fr.statista.com/infographie/23617/entreprises-les-plus-inclusives-leaders-de-la-diversite/)|
 |Statista |Les Européens craignent-ils la diversité ?|2016|||[lien](https://fr.statista.com/infographie/5279/les-europeens-craignent-ils-la-diversite/)|
 |Statista |Proportion de dirigeants d'entreprise ayant une politique de ressources humaines (RH) favorisant la diversité et l'insertion professionnelle en France en 2018|2019|||[lien](https://fr.statista.com/statistiques/1052275/responsabilite-sociale-environnementale-entreprise-politique-rh-inclusive-france/)|
+|The conversation|Les quatre leviers pour rendre l’entreprise plus inclusive|2020|||[lien](https://theconversation.com/les-quatre-leviers-pour-rendre-lentreprise-plus-inclusive-139980)|
+|Webhelp|Priorités RH – Diversité et inclusion, de puissants leviers pour booster les performances des entreprises||||[lien](https://webhelp.com/fr/news/priorites-rh-diversite-inclusion-leviers-performances/)|										
