@@ -42,8 +42,10 @@
 |Glassdoor|Rapport Diversity & Inclusion Study|2019|||[lien](https://www.glassdoor.com/about-us/app/uploads/sites/2/2019/10/Glassdoor-Diversity-Survey-Supplement-1.pdf)|
 |Google|Rapport annuel diverité 2020|2020|||[lien](https://kstatic.googleusercontent.com/files/25badfc6b6d1b33f3b87372ff7545d79261520d821e6ee9a82c4ab2de42a01216be2156bc5a60ae3337ffe7176d90b8b2b3000891ac6e516a650ecebf0e3f866)|
 |Grand Paris sud|Cartographie acteurs inclusion numérique - Grand Paris Sud||||[lien](https://data.grandparissud.fr/explore/dataset/cartographie-acteurs-inclusion-numerique-grand-paris-sud-authorisation-dapparait/table/)|
+|HAL|L’inclusion professionnelle des salariés issus des territoires urbains français dits en difficulté : un état des lieux|2020|||[lien](https://hal.archives-ouvertes.fr/hal-03084156/document)|							
 |Harvard Business School|Working Paper: How Multicultural Networks Promote Creativity|2011|||[lien](https://www.hbs.edu/ris/Publication%20Files/11-085.pdf)|
 |Hays|Enquête La Diversité en Entreprise|2017|||[lien](https://www.slideshare.net/Hays75/etude-sur-la-diversite-en-entreprise-81703405)|
+|IHEE|COMPETENCES, DIVERSITE & INCLUSION: D'UNE LOGIQUE DE CONTRAINTE A UNE LOGIQUE DE PERFORMANCE ?|2020|||[lien](https://www.ihee.fr/sites/ihee/files/documents/Comit%C3%A9%204%20Competences%20diversite%20et%20inclusion.pdf)|
 |Inspection générale de l'Administration de l'Éducation nationale et de la Recherche|Étude comparative entre le label européen « HRS4R » et les labels nationaux « Égalité professionnelle entre les femmes et les hommes » et « Diversité »|2019|||[lien](https://www.vie-publique.fr/sites/default/files/rapport/pdf/194000701.pdf)|
 |Inspection générale de l'Éducation Nationale - Inspection générale de l'Administration de l'Éducation nationale et de la Recherche|Contrôle de l'ouverture sociale et de la diversité dans les classes préparatoires aux grandes écoles|2010|||[lien](https://www.vie-publique.fr/sites/default/files/rapport/pdf/124000274.pdf)|
 |Institut Montaigne |Dix ans de politiques de diversité: quel bilan ?|2014|||[lien](https://www.institutmontaigne.org/publications/dix-ans-de-politiques-de-diversite-quel-bilan)|
@@ -51,8 +53,11 @@
 |Institut Montaigne |Discriminations religieuses à l'embauche une réalité |2015|||[lien](https://www.institutmontaigne.org/publications/discriminations-religieuses-lembauche-une-realite)|
 |Institut Montaigne |Diversité et performance : une équation réussie|2010|||[lien](https://www.institutmontaigne.org/blog/2010/12/29/606-diversite-et-performance-une-equation-reussie)|
 |Le grand continent|Une pandémie de la pauvreté|2020|||[lien](https://legrandcontinent.eu/fr/2020/09/05/une-pandemie-de-la-pauvrete/)|
-|Les dialogues de l'inclusion et de la RSE|Site de l'événement|2021|||[lien](https://officiel-inclusion.fr/)|											
+|Les dialogues de l'inclusion et de la RSE|Site de l'événement|2021|||[lien](https://officiel-inclusion.fr/)|
+|Les echos|Discriminations : 11 graphes pour dresser un état des lieux et agir|2019|||[lien](https://start.lesechos.fr/societe/egalite-diversite/discriminations-11-graphes-pour-dresser-un-etat-des-lieux-et-agir-1175855)|
 |Les vendredis de la colline|Diversité culturelle et tissu associatif en Seine-Saint-Denis|2020|||[lien](https://drive.google.com/file/d/1BEQ2mRfpvW_p10Rnz5ikzFeu5FiK8VkD/view)|
+|L'oréal|Chiffres clés 2019|2019|||[lien](https://www.loreal.com/fr/nos-engagements/pour-toutes-et-tous/promoting-diversity-and-inclusion/key-figures/)|
+|LVMH|Rapport de Responsabilité sociale et environnementale|2020|||[lien](https://r.lvmh-static.com/uploads/2021/04/lvmh_reng20.pdf)|
 |Mamie-Boom|Site de la startup qui vise à réduire l’isolement social des personnes âgées en créant des liens intergénérationnels basés sur la transmission et l’échange avec des étudiants||||[lien](https://mamie-boom.com/)|
 |McKinsey|Rapport sur D&I||||[lien](https://www.mckinsey.com/featured-insights/diversity-and-inclusion)|
 |Microsoft |Le rapport sur la diversité et l’inclusion de Microsoft|2019|||[lien](https://news.microsoft.com/fr-ca/2019/11/15/le-rapport-sur-la-diversite-et-linclusion-de-microsoft-souligne-les-progres-accomplis-et-trace-la-voie-pour-lavenir/)|
@@ -62,6 +67,7 @@
 |Ministère de la Fonction publique et de la Réforme de l'Etat|RAPPORT SUR LA DIVERSITE DANS LA FONCTION PUBLIQUE |2004|||[lien](https://www.vie-publique.fr/sites/default/files/rapport/pdf/044000632.pdf)|
 |Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation|Rapport du Comité stratégique « Diversité sociale et territoriale dans l’enseignement supérieur »|2020|||[lien](https://www.vie-publique.fr/sites/default/files/rapport/pdf/277772.pdf)|
 |Ministere de l'Enseignement supérieur, de la Recherche et de l'Innovation|rapport « Diversité sociale et territoriale dans l'enseignement supérieur »|2020|||[lien](https://cache.media.enseignementsup-recherche.gouv.fr/file/Mediatheque/98/3/rapport_comite_strategique_diversite_sociale_territoriale_enseignement_1360983.pdf)|
+|Novelethic|A la recherche de la Diversité CAC 40|2005|||[lien](https://www.novethic.fr/fileadmin/user_upload/tx_ausynovethicetudes/pdf_complets/diversite_CAC40_2005.pdf)|
 |Observatoire de la competence metier|La diversité en entreprise : des progrès encore modestes|2021|||[lien](https://www.observatoire-ocm.com/rh/diversite-entreprise/)|
 |Observatoire Skema de la féminisation des entreprises|Diversité & Inclusion au sein CAC40 La mixité femmes-hommes est-elle associée à la responsabilité sociétale des entreprises et à leur performances économiques et boursières? |2021|||[lien](https://www.skema-bs.fr/Documents/faculte-recherche/ObservatoireSkemadelaf%c3%a9minisationdes%20entreprises2021.pdf)|
 |OCDE |Rapport PISA|2018|||[lien](https://www.oecd.org/pisa/publications/pisa-2018-results.htm)|
