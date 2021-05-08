@@ -84,4 +84,22 @@
 |Statista |Les Européens craignent-ils la diversité ?|2016|||[lien](https://fr.statista.com/infographie/5279/les-europeens-craignent-ils-la-diversite/)|
 |Statista |Proportion de dirigeants d'entreprise ayant une politique de ressources humaines (RH) favorisant la diversité et l'insertion professionnelle en France en 2018|2019|||[lien](https://fr.statista.com/statistiques/1052275/responsabilite-sociale-environnementale-entreprise-politique-rh-inclusive-france/)|
 |The conversation|Les quatre leviers pour rendre l’entreprise plus inclusive|2020|||[lien](https://theconversation.com/les-quatre-leviers-pour-rendre-lentreprise-plus-inclusive-139980)|
-|Webhelp|Priorités RH – Diversité et inclusion, de puissants leviers pour booster les performances des entreprises||||[lien](https://webhelp.com/fr/news/priorites-rh-diversite-inclusion-leviers-performances/)|										
+|Webhelp|Priorités RH – Diversité et inclusion, de puissants leviers pour booster les performances des entreprises||||[lien](https://webhelp.com/fr/news/priorites-rh-diversite-inclusion-leviers-performances/)|
+|Drafted|Open data diversity|2020|||[lien](https://www.diversityreports.org/)|
+|Ongig|10 meilleurs rapports diversité|2020|||[lien](https://blog.ongig.com/diversity-and-inclusion/diversity-report/)|
+|The Financial Services Skills Commission|Diversity Data - The challenges of data collection and developing a culture of self-reporting|2020|||[lien](https://diversityproject.com/2020-11-03/diversity-data-challenges-data-collection-and-developing-culture-self-reporting)|
+|GTMHUB|How Diversity and Inclusion Leaders Can Drive Measurable Results|2020|||[lien](https://hello.gtmhub.com/how-diversity-and-inclusion-leaders-can-drive-measurable-results/?utm_term=diversity&utm_campaign=lead-d-and-i-leaders-search&utm_source=google&utm_medium=cpc&hsa_acc=1660248024&hsa_cam=12690305424&hsa_kw=diversity&hsa_ver=3&hsa_mt=p&hsa_grp=115645465650&hsa_ad=512839903676&hsa_tgt=kwd-31535353&hsa_net=adwords&hsa_src=g&gclid=Cj0KCQjw-LOEBhDCARIsABrC0TnTA55TzUeWfpdH9ZZLLgdNtgWrTYpbtjAgnDVkTjF8SvEKacWyB4caAoCTEALw_wcB)|
+|Medium|Medium: The Diversity Report|2018|||[lien](https://blog.medium.com/medium-the-diversity-report-503dd91c2edd)|
+|Medium|How to Lose a Chief Diversity Officer in 6 Months|2019|||[lien](https://medium.com/swlh/the-business-case-for-diversity-is-a-sinking-ship-d7a42d61f884)|
+|Builtin|80+ Diversity in the Workplace Statistics You Should Know|2020|||[lien](https://builtin.com/diversity-inclusion/diversity-in-the-workplace-statistics)|
+|Mckinsey|Diversity wins: How inclusion matters|2020|||[lien](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters)|
+|UK research & Innovation|Diversity data collection|2020|||[lien](https://www.ukri.org/our-work/supporting-healthy-research-and-innovation-culture/equality-diversity-and-inclusion/diversity-data/)|
+|KPMG|Ensemble pour un milieu inclusif|2019|||[lien](https://assets.kpmg/content/dam/kpmg/ca/pdf/2019/10/inclusion-and-diversity-report-digital-web-french.pdf)|
+|Ministère du travail, de l'emploi et de l'insertion|Index de l’égalité professionnelle : calcul et questions/réponses|2021|||[lien](https://travail-emploi.gouv.fr/droit-du-travail/egalite-professionnelle-discrimination-et-harcelement/indexegapro)|
+|Donzel&compagnie / Programme EVE|Le rapport EVE et Donzel: Égalité professionnelle et leadership au féminin|2015|||[lien](https://www.eveprogramme.com/wp-content/uploads/2016/09/50Chiffres_VERSION_290515.pdf)|
+|Better Allies|Everyday actions to create inclusive, engaging workplaces|2021|||[lien](https://betterallies.com/)|
+|LeadDev|Diversity & inclusion|2021|||[lien](https://leaddev.com/category/diversity-inclusion)|
+|Mckinsey|Report: The case for inclusive growth|2021|||[lien](https://www.mckinsey.com/industries/public-and-social-sector/our-insights/the-case-for-inclusive-growth)|
+|Alstom|Guide pour un lieu de travail inclusif pour les personnes en situation de handicap|2020|||[lien](https://www.alstom.com/sites/alstom.com/files/2020/12/14/Global%20All%20Abilities%20Toolkit_FINAL_VF.pdf)|
+|Alstom|CHARTE DE LA DIVERSITÉ ET DE L’INCLUSION|2019|||[lien](https://www.alstom.com/sites/alstom.com/files/2020/07/10/Alstom%20Diversity%20and%20Inclusion%20Charter_French%20Nov%2019.pdf)|
+|Alstom|Diversity and Equal Opportunity Index 2019 2020|2020|||[lien](https://www.alstom.com/sites/alstom.com/files/2020/06/08/Alstom%20Diversity%20and%20Equal%20Opportunity%20Index%202019%202020.pdf)|
