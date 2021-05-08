@@ -71,6 +71,8 @@
 |Observatoire de la competence metier|La diversité en entreprise : des progrès encore modestes|2021|||[lien](https://www.observatoire-ocm.com/rh/diversite-entreprise/)|
 |Observatoire Skema de la féminisation des entreprises|Diversité & Inclusion au sein CAC40 La mixité femmes-hommes est-elle associée à la responsabilité sociétale des entreprises et à leur performances économiques et boursières? |2021|||[lien](https://www.skema-bs.fr/Documents/faculte-recherche/ObservatoireSkemadelaf%c3%a9minisationdes%20entreprises2021.pdf)|
 |OCDE |Rapport PISA|2018|||[lien](https://www.oecd.org/pisa/publications/pisa-2018-results.htm)|
+|Polytechnique|Rapport d'activité|2019|||[lien](https://gargantua.polytechnique.fr/siatel-web/linkto/mICYYYSb4jYK)|
+|Positive Planet|Rapport d'activité|2019|||[lien](https://www.positiveplanetfrance.org/publications/rapport-dactivite-2019)|												
 |Radio France |Rapport Diversité et Egalité         |2019|||[lien](https://www.radiofrance.com/diversite-et-egalite)|
 |Rhinocc|Cartographie pour Comprendre la Stratégie Nationale pour l’inclusion numérique en France||||[lien](https://rhinocc.fr/comprendre-la-strategie-nationale-pour-linclusion-numerique-en-france/)|
 |Sage|Diversité et Inclusion chez Sage|2020|||[lien](https://www.sage.com/fr-fr/societe/a-propos-sage/diversite-et-integration/)|
